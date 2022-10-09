@@ -2,7 +2,6 @@
 
 - using Material UI and Rapid API
 ## Project Study
-
 by: [JS Mastery](https://www.youtube.com/watch?v=FHTbsZEJspU&t=2774s)
 
 
